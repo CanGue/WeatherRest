@@ -1,0 +1,12 @@
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\webservice\UserWebService.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\configuration\Bootstrapper.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\model\Coordinate.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\Interceptor\RestLogger.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\businesslogic\UserController.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\configuration\JAXRSConfiguration.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\model\User.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\webservice\CurrentWeatherService.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\businesslogic\CurrentWeatherData.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\dao\UserDAO.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\model\City.java
+C:\Users\GUC\Desktop\ee-bsp\ee-bsp\WeatherRest\src\main\java\com\jcn\weatherapp\contracts\BaseDAO.java
