@@ -10,10 +10,10 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.jcn.weatherapp.Interceptor.RestLogger;
+import com.jcn.weatherapp.Interceptor.ExceptionLogger;
 import com.jcn.weatherapp.businesslogic.CurrentWeatherData;
 
-@Interceptors(RestLogger.class)
+@Interceptors(ExceptionLogger.class)
 @Path("/currentweather")
 @Stateless
 public class CurrentWeatherService {

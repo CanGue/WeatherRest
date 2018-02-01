@@ -1,12 +1,6 @@
-com\jcn\weatherapp\model\City.class
-com\jcn\weatherapp\contracts\BaseDAO.class
-com\jcn\weatherapp\configuration\JAXRSConfiguration.class
-com\jcn\weatherapp\Interceptor\RestLogger.class
-com\jcn\weatherapp\model\Coordinate.class
-com\jcn\weatherapp\configuration\Bootstrapper.class
-com\jcn\weatherapp\webservice\UserWebService.class
+com\jcn\weatherapp\Interceptor\ExceptionLogger.class
 com\jcn\weatherapp\businesslogic\CurrentWeatherData.class
 com\jcn\weatherapp\model\User.class
-com\jcn\weatherapp\dao\UserDAO.class
-com\jcn\weatherapp\businesslogic\UserController.class
+com\jcn\weatherapp\webservice\UserService.class
 com\jcn\weatherapp\webservice\CurrentWeatherService.class
+com\jcn\weatherapp\configuration\JAXRSConfiguration.class
